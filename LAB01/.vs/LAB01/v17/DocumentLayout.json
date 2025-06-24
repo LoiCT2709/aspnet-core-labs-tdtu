@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|c:\\users\\lpn31\\computer\\net\\baitapth\\lab01\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\delegateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|solutionrelative:delegateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|c:\\users\\lpn31\\computer\\net\\baitapth\\lab01\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1842539-1151-4265-B09E-A461669E6058}|LAB01.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T07:35:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelegateClass.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\DelegateClass.cs",
+              "RelativeDocumentMoniker": "DelegateClass.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\DelegateClass.cs",
+              "RelativeToolTip": "DelegateClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:53:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:51:16.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\Q1.cs",
+              "RelativeDocumentMoniker": "Q1.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\NET\\BaiTapTH\\LAB01\\Q1.cs",
+              "RelativeToolTip": "Q1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:55:25.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

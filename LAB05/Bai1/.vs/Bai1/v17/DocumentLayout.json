@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\52200216_TranKhietLoi_Lab05\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0778ED17-ED2E-403C-A848-1E3AE17F346D}|Bai1\\Bai1.csproj|e:\\52200216_trankhietloi_lab05\\bai1\\bai1\\views\\simple\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0778ED17-ED2E-403C-A848-1E3AE17F346D}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\simple\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0778ED17-ED2E-403C-A848-1E3AE17F346D}|Bai1\\Bai1.csproj|e:\\52200216_trankhietloi_lab05\\bai1\\bai1\\controllers\\simplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0778ED17-ED2E-403C-A848-1E3AE17F346D}|Bai1\\Bai1.csproj|solutionrelative:bai1\\controllers\\simplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai1\\Bai1\\Views\\Simple\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai1\\Views\\Simple\\Index.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai1\\Bai1\\Views\\Simple\\Index.cshtml",
+              "RelativeToolTip": "Bai1\\Views\\Simple\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:12:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleController.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai1\\Bai1\\Controllers\\SimpleController.cs",
+              "RelativeDocumentMoniker": "Bai1\\Controllers\\SimpleController.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai1\\Bai1\\Controllers\\SimpleController.cs",
+              "RelativeToolTip": "Bai1\\Controllers\\SimpleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:11:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

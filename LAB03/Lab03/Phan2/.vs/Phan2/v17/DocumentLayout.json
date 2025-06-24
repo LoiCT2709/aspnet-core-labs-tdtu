@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|c:\\users\\lpn31\\computer\\hkii-n\u0103m 3\\net\\baitapth\\lab03\\52200216_lab03\\phan2\\phan2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|solutionrelative:phan2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\phan2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|solutionrelative:phan2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\phan2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|solutionrelative:phan2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|c:\\users\\lpn31\\computer\\hkii-n\u0103m 3\\net\\baitapth\\lab03\\52200216_lab03\\phan2\\phan2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|solutionrelative:phan2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|c:\\users\\lpn31\\computer\\hkii-n\u0103m 3\\net\\baitapth\\lab03\\52200216_lab03\\phan2\\phan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|solutionrelative:phan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\phan2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|solutionrelative:phan2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\phan2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C9C8BFD0-1219-450B-852C-54AE879726CD}|Phan2\\Phan2.csproj|solutionrelative:phan2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\App.config",
+              "RelativeDocumentMoniker": "Phan2\\App.config",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\App.config",
+              "RelativeToolTip": "Phan2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T03:29:52.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Program.cs",
+              "RelativeDocumentMoniker": "Phan2\\Program.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Program.cs",
+              "RelativeToolTip": "Phan2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:29:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.cs",
+              "RelativeDocumentMoniker": "Phan2\\Form1.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.cs",
+              "RelativeToolTip": "Phan2\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:52:09.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.cs",
+              "RelativeDocumentMoniker": "Phan2\\Form1.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.cs [Design]",
+              "RelativeToolTip": "Phan2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:50:28.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Phan2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.Designer.cs",
+              "RelativeToolTip": "Phan2\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:56:42.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.resx",
+              "RelativeDocumentMoniker": "Phan2\\Form1.resx",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Form1.resx",
+              "RelativeToolTip": "Phan2\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-05T06:59:09.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Customer.cs",
+              "RelativeDocumentMoniker": "Phan2\\Customer.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\HKII-N\u0102M 3\\NET\\BaiTapTH\\LAB03\\52200216_Lab03\\Phan2\\Phan2\\Customer.cs",
+              "RelativeToolTip": "Phan2\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:52:50.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

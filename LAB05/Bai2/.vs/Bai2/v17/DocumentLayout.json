@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\views\\simple\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\views\\simple\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\repository\\mockemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\repository\\mockemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|e:\\52200216_trankhietloi_lab05\\bai2\\bai2\\controllers\\simplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D673D-6F95-4A3E-98B8-B7027488AA31}|Bai2\\Bai2.csproj|solutionrelative:bai2\\controllers\\simplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Bai2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Bai2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:45:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bai2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bai2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:45:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bai2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:42:30.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bai2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bai2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:42:26.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Simple\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai2\\Views\\Simple\\Index.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\Simple\\Index.cshtml",
+              "RelativeToolTip": "Bai2\\Views\\Simple\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:17:00.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bai2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bai2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:42:20.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:39:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Bai2\\Models\\Employee.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Models\\Employee.cs",
+              "RelativeToolTip": "Bai2\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:18:52.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MockEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Repository\\MockEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Bai2\\Repository\\MockEmployeeRepository.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Repository\\MockEmployeeRepository.cs",
+              "RelativeToolTip": "Bai2\\Repository\\MockEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:22:58.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bai2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bai2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:30:22.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Bai2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Bai2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:32:08.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Bai2\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Bai2\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:20:52.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimpleController.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Controllers\\SimpleController.cs",
+              "RelativeDocumentMoniker": "Bai2\\Controllers\\SimpleController.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab05\\Bai2\\Bai2\\Controllers\\SimpleController.cs",
+              "RelativeToolTip": "Bai2\\Controllers\\SimpleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:16:40.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

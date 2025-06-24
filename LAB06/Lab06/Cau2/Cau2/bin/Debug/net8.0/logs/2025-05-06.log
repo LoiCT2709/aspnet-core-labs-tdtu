@@ -1,0 +1,8 @@
+2025-05-06 23:35:20.0436 INFO Them san pham moi vao gio hang: [SKU: IP12, Ten: iPhone 12, So luong: 1] 
+2025-05-06 23:35:21.2683 INFO Tang so luong san pham: [SKU: IP12, Ten: iPhone 12, So luong moi: 2] 
+2025-05-06 23:35:22.0271 INFO Tang so luong san pham: [SKU: IP12, Ten: iPhone 12, So luong moi: 3] 
+2025-05-06 23:35:22.2009 INFO Tang so luong san pham: [SKU: IP12, Ten: iPhone 12, So luong moi: 4] 
+2025-05-06 23:35:26.2308 INFO Giam so luong san pham: [SKU: IP12, Ten: iPhone 12, Con lai: 3] 
+2025-05-06 23:35:26.5349 INFO Giam so luong san pham: [SKU: IP12, Ten: iPhone 12, Con lai: 2] 
+2025-05-06 23:35:26.7891 INFO Giam so luong san pham: [SKU: IP12, Ten: iPhone 12, Con lai: 1] 
+2025-05-06 23:35:27.1183 WARN Xoa san pham cuoi cung: [SKU: IP12, Ten: iPhone 12] 

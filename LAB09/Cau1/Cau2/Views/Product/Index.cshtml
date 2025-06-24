@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Cau2.Models.Product>
+@{
+    ViewData["Title"] = "Product";
+    Layout = "_Layout"; 
+}
+<h2>Danh sách sản phẩm</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã SP</th>
+            <th>Tên</th>
+            <th>Giá</th>
+            <th>Thêm vào giỏ</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Sku</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+                    <a href="@Url.Action("Buy", "Cart", new { sku = product.Sku })" class="btn btn-success">Mua ngay</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

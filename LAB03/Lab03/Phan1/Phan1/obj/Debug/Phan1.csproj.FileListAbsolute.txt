@@ -1,0 +1,7 @@
+E:\52200216_Lab03\Phan1\Phan1\bin\Debug\Phan1.exe.config
+E:\52200216_Lab03\Phan1\Phan1\bin\Debug\Phan1.exe
+E:\52200216_Lab03\Phan1\Phan1\bin\Debug\Phan1.pdb
+E:\52200216_Lab03\Phan1\Phan1\obj\Debug\Phan1.csproj.AssemblyReference.cache
+E:\52200216_Lab03\Phan1\Phan1\obj\Debug\Phan1.csproj.CoreCompileInputs.cache
+E:\52200216_Lab03\Phan1\Phan1\obj\Debug\Phan1.exe
+E:\52200216_Lab03\Phan1\Phan1\obj\Debug\Phan1.pdb

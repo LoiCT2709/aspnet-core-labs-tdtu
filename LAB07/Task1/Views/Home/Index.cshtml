@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Yêu cầu hiện thực chức năng tìm kiếm:</h2>
+
+<div>
+    <input type="text" id="searchQuery" placeholder="Nhập từ khóa tìm kiếm" />
+</div>
+
+<div id="result">
+   
+    <table id="resultTable" style="width: 100%; border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Danh sách sản phẩm sẽ được chèn ở đây -->
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Hiển thị tất cả sản phẩm khi trang được tải
+            displayProducts();
+
+            // Xử lý sự kiện khi người dùng nhập từ khóa vào ô tìm kiếm
+            $("#searchQuery").on('input', function () {
+                var query = $(this).val(); // Lấy giá trị từ ô tìm kiếm
+                $.ajax({
+                    type: "GET",
+                    url: "/Home/Search", // Đường dẫn tới phương thức tìm kiếm trong controller
+                    data: { query: query }, // Gửi dữ liệu tìm kiếm
+                    success: function (data) {
+                        displayProducts(data); // Hiển thị kết quả tìm kiếm
+                    },
+                    error: function () {
+                        alert("Có lỗi xảy ra khi thực hiện tìm kiếm.");
+                    }
+                });
+            });
+
+            // Hàm hiển thị sản phẩm
+            function displayProducts(products = []) {
+                var tableBody = $("#resultTable tbody");
+                tableBody.empty(); // Xóa các kết quả cũ trước khi thêm kết quả mới
+
+                // Duyệt qua các kết quả và thêm vào bảng
+                $.each(products, function (index, item) {
+                    var row = $("<tr></tr>");
+                    row.append("<td>" + item.name + "</td>");
+                    row.append("<td>" + item.price + "</td>");
+                    tableBody.append(row);
+                });
+
+                // Nếu không có sản phẩm trong query, hiển thị toàn bộ sản phẩm
+                if (products.length === 0) {
+                    var allProducts = [
+                        { name: "iPhone 14", price: 15 },
+                        { name: "iPhone 16 Pro", price: 26 },
+                        { name: "iPhone 16 Pro Max", price: 31 },
+                        { name: "Samsung S25", price: 30 },
+                        { name: "Samsung S25 Ultra", price: 36 },
+                        { name: "iPad 15", price: 20 },
+                        { name: "Sony", price: 15 }
+                    ];
+
+                    $.each(allProducts, function (index, item) {
+                        var row = $("<tr></tr>");
+                        row.append("<td>" + item.name + "</td>");
+                        row.append("<td>" + item.price + "</td>");
+                        tableBody.append(row);
+                    });
+                }
+            }
+        });
+    </script>
+}

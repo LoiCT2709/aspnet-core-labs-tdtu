@@ -1,0 +1,6 @@
+@Cau2_HostAddress = http://localhost:5226
+
+GET {{Cau2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

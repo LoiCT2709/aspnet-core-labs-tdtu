@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|e:\\52200216_trankhietloi_lab06\\cau3\\cau3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F909DB18-02B5-43A5-A666-8DA421CB4D3B}|Cau3\\Cau3.csproj|solutionrelative:cau3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Cau3\\Controllers\\BlogController.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Cau3\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:51:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cau3\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Cau3\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T08:06:02.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Program.cs",
+              "RelativeDocumentMoniker": "Cau3\\Program.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Program.cs",
+              "RelativeToolTip": "Cau3\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:52:30.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cau3\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cau3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:59:08.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Cau3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Cau3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T08:07:15.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Cau3\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Cau3\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:54:35.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Cau3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Cau3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T07:55:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cau3\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Cau3\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T07:58:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cau3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\52200216_TranKhietLoi_Lab06\\Cau3\\Cau3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cau3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T07:55:25.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

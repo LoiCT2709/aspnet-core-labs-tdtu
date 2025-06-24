@@ -1,0 +1,10 @@
+E:\52200216_Lab03\Phan2\Phan2\bin\Debug\Phan2.exe.config
+E:\52200216_Lab03\Phan2\Phan2\bin\Debug\Phan2.exe
+E:\52200216_Lab03\Phan2\Phan2\bin\Debug\Phan2.pdb
+E:\52200216_Lab03\Phan2\Phan2\obj\Debug\Phan2.csproj.AssemblyReference.cache
+E:\52200216_Lab03\Phan2\Phan2\obj\Debug\Phan2.Form1.resources
+E:\52200216_Lab03\Phan2\Phan2\obj\Debug\Phan2.Properties.Resources.resources
+E:\52200216_Lab03\Phan2\Phan2\obj\Debug\Phan2.csproj.GenerateResource.cache
+E:\52200216_Lab03\Phan2\Phan2\obj\Debug\Phan2.csproj.CoreCompileInputs.cache
+E:\52200216_Lab03\Phan2\Phan2\obj\Debug\Phan2.exe
+E:\52200216_Lab03\Phan2\Phan2\obj\Debug\Phan2.pdb

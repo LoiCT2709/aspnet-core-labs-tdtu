@@ -1,0 +1,7 @@
+﻿@model Cau2.Models.ErrorViewModel
+<h1>Error</h1>
+<h2>An error occurred while processing your request.</h2>
+@if (Model != null && Model.ShowRequestId)
+{
+    <p><strong>Request ID:</strong> @Model.RequestId</p>
+}

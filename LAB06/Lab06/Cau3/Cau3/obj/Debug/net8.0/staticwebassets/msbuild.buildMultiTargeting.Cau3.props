@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cau3.props" />
+</Project>
